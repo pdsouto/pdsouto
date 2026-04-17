@@ -1,16 +1,33 @@
-## Hi there 👋
+# 💻 Pedro Souto
 
-<!--
-**pdsouto/pdsouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <b>front-end developer</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## um pouco sobre mim
+
+crio interfaces modernas, responsivas e bem organizadas.
+
+trabalho com <b>html, css e javascript</b>  
+e evoluindo com <b>typescript</b> e <b>react</b>.
+
+foco em simplicidade, clareza e um visual clean.
+
+também compartilho projetos e tutoriais  
+no youtube e instagram.
+
+---
+
+## stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+
+---
+
+<p align="left">
+  <sub>Um commit de cada vez.</sub>
+</p>
